@@ -1,10 +1,21 @@
-# The-rise-of-a-Great-Engineering
-All I have learned / need to learn in future
-==============********==========================
-**2026.2.19**
-今天学了线性代数方程组齐次和非齐次解的结构，配置好了numpy的环境，接下来把notebook怎么用学明白然后看看有没有时间实现一个矩阵的程序。
-要学的东西特别多，我得在大二下学期之前把所有都学明白,其中包括：
-python数值分析栈系列，pytorch
-数学方面：高数上下，线代，概率论，微积分，离散数学可能要一点点
-专业知识方面：ML,deep learning
-任重而道远，至少我们已经知道了自己要学什么了，有了目标，也就有了进步的一大优势！
+# 🚀 The Rise of a Great Engineering
+> "任重而道远，至少我们已经知道了自己要学什么了。有了目标，就有了进步的一大优势！"
+---
+### 📅 学习日志 | 2026.02.19
+* **数学进展**：学了线性代数方程组齐次和非齐次解的结构。
+* **环境搭建**：配置好了 `NumPy` 环境。
+* **今日任务**：弄明白 `Jupyter Notebook` 的高效用法，尝试实现一个矩阵程序。
+---
+### 🛠️ 核心筑基目标 (Roadmap)*All I have learned / need to learn in future.*
+
+#### 🔢 数学体系
+* [ ] **高数上下** (多元微积分/偏导数)
+* [ ] **线性代数** (特征值/SVD)
+* [ ] **概率论** & **离散数学**
+
+#### 🐍 专业技术
+* [ ] **Python 数值分析栈** (NumPy/Pandas/Matplotlib)
+* [ ] **ML & Deep Learning** (Scikit-learn/PyTorch)
+* [ ] **C++ 底层性能优化**
+
+---
